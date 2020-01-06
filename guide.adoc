@@ -1,0 +1,150 @@
+:sectnums:
+:toc:
+
+= Workshop on Modeling Language Engineering and Execution (MLE) − Organisation Guide
+Erwan Bousse, University of Nantes, France; Jeff Gray, University of Alabama, USA; Ed Seidewitz, Model Driven Solutions, USA; Romina Eramo, University of L’Aquila, Italy; Benoit Combemale, University of Toulouse & Inria, France
+
+
+This document defines the role of the MLE Steering Committee (SC), presents to current and future Organization Committees (OCs) how the SC envisions the organization of the MLE workshop.
+
+== Role of the Steering Committee (SC)
+
+=== Choice of an MLE Organization Committee (OC)
+
+Each year the SC will discuss (offline at MODELS, or online) to come up with a list of potential MLE organizers for the following year. 
+The goal is to have 3 organizers in the OC, and to try to mix members from academia and from the industry.
+
+=== Interaction with the OC
+
+The SC proposes a format to the OC but lets it open for discussion. 
+This document aims to present the said format along with organization guidelines.
+
+The SC should be ``in-the-loop'' for most decisions made by the OC. 
+This means the OC should notify the SC for each of the main decisions (proposal/CfP content, PC, keynote speaker invitation) and main milestones (workshop proposal submission, website publication, etc.).
+This allows the SC to give feedback if needed.
+
+=== Rotation of the SC
+
+The SC will be stable and a rotation will only occur when an SC member steps back.
+
+== Organization of the MLE workshop
+
+=== PC & Submissions
+
+==== Program Committee (PC) management
+
+The size of the PC should be around 20. The list of considered researchers for the PC can be based on the PC from the previous MLE edition, but a rotation of at least 20% (hence ~5 persons) is preferable.
+
+The OC should pay attention to diversity in the PC (industry / academia, gender, geographic area, race, research expertise, research topics, etc.).
+
+A shared document will be made available to list all past PC members of MLE, and can be used to efficiently rotate from one edition to another. 
+In particular, if former PC members were problematic (eg. very late reviews, bad reviews, bad behavior), comments should be added to this shared document to explain why such former members should not be reinvited.
+
+==== Reviews management
+
+The OC is free to manage reviews as they want (meta-reviews or not, discussion management, etc.). We do advise to pay attention to reviews from members of the industry which may rely on different criteria as members of academia, and to judge accordingly.
+
+==== Types of submissions
+
+The SC suggests the following types of submissions:
+
+* *Research papers* (up to 8 pages)
+* *Short research papers* (up to 4 pages)
+* *"Applied Practice" papers* (up to 8 pages), where at least one author must be from the industry, and where reviewers should not judge the scientific novelty but should only judge whether the content is useful and relevant for the community.
+
+
+
+=== Workshop format
+
+==== Program
+
+A typical workshop program that can be followed is is:
+
+* First session : keynote
+* Main sessions : presentations (15 minutes talk + 5 minutes Q&A)
+* Last session : discussion?
+
+The goal is to encourage interactions between participants and authors as much as possible. One idea that can be experimented is to have short discussion sessions throughout the workshop schedule, for instead one after each presentation session (using the topic of the session as a discussion starter).
+
+==== Industry presence
+
+The SC would like to encourage as much industry presence at possible at the MLE workshop. For instance the ``Applied Practice'' submission type aims to be a target solely for industry members, with slightly different evaluation criteria.
+
+To further ensure an industry presence, the OC can also directly invite 2 or 3 industry members to make presentations (or demos) without having to write actual papers.
+
+
+
+=== Organization
+
+==== Sharing material between editions
+
+An MLE github organization is available here: https://github.com/mleworkshop
+
+The goal is to share everything related to MLE, which means among other things:
+
+* Websites,
+* Proposals,
+* CFPs,
+* Email templates,
+* Used mailing lists,
+* Statistics,
+* PC members data,
+* This current guide.
+
+The github organization contains al least these two repositories:
+
+* https://github.com/mleworkshop/mle-organization which contains all past material: proposals, cfps, etc.
+* https://github.com/mleworkshop/mleworkshop.github.io which contains the website.
+
+==== Workshop proposal
+
+The OC can freely rely on the past editions proposals and websites to assemble a workshop proposal for MODELS.
+
+==== Milestones to consider
+
+* Preparation of the workshop proposal,
+* Preparation of the workshop website,
+* Submission of the workshop proposal (around March),
+* Workshop acceptance,
+* Create EasyChair submission page,
+* Make website online,
+* Keynote invitation,
+* 1st CFP sent to mailing lists,
+* 2nd CFP sent to mailing lists (if possible when the keynote is known),
+* Submission deadline reached,
+* Bidding,
+* Assignment of papers,
+* Discussions,
+* Decisions + notifications,
+* Update workshop page with the program,
+* Workshop (between September and November @MODELS).
+
+
+
+=== Communication
+
+==== Website
+
+The MLE website is hosted as a Github page at this address: http://mleworkshop.github.io/
+
+The base content of the website gives only very basic information, such as a list of previous MLE editions, a link to the page of the next/current edition, and the SC list.
+
+Then each edition website is available as a single web page nested in the main website (eg. https://mleworkshop.github.io/editions/mle2020.)
+
+The website is created using Jekyll, and can be edited using this Github repository: https://github.com/mleworkshop/mleworkshop.github.io.
+
+==== Mailing lists
+
+Most communication will be done using two mailing lists : one for the SC (mailto:mle-cs@inria.fr[mle-sc@inria.fr]), one for the for the OC (mle@inria.fr).
+
+Both mailing lists are managed by the Inria SYMPA mailing list service using these pages:
+
+* https://sympa.inria.fr/sympa/info/mle
+* https://sympa.inria.fr/sympa/info/mle-sc
+
+==== Advertising the workshop
+
+The OC is encouraged to communicate about the workshop using their personal twitter accounts. 
+Among other things, tweeting about the workshop acceptance, the CFPs, and the deadlines are good ideas.
+
+In addition, the CFPs should be sent to as many mailing lists as possible. A shared document with all considered mailing lists is available in the github repository.
