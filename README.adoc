@@ -115,7 +115,8 @@ The OC can freely rely on the past editions proposals and websites to assemble a
 * Submission deadline reached,
 * Bidding,
 * Assignment of papers,
-* Discussions,
+* Receive all the reviews,
+* Start and manage discussions,
 * Decisions + notifications,
 * Update workshop page with the program,
 * Workshop (between September and November @MODELS).
