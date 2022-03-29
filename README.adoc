@@ -108,6 +108,7 @@ The OC can freely rely on the past editions proposals and websites to assemble a
 * Workshop acceptance,
 * Create EasyChair submission page,
 * Make website online,
+* PC invitation,
 * Keynote invitation,
 * 1st CFP sent to mailing lists,
 * 2nd CFP sent to mailing lists (if possible when the keynote is known),
