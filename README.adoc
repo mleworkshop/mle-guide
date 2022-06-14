@@ -150,3 +150,5 @@ The OC is encouraged to communicate about the workshop using their personal twit
 Among other things, tweeting about the workshop acceptance, the CFPs, and the deadlines are good ideas.
 
 In addition, the CFPs should be sent to as many mailing lists as possible. A shared document with all considered mailing lists is available in the github repository.
+
+In addition, the SC should help the OC to communicate about the workshop. This requires the OC to keep the SC in the loop when sending CFPs.
